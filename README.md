@@ -1,1 +1,4 @@
 # vaffel
+
+- vaffelrøre
+- vaffeljern
